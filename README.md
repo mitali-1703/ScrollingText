@@ -1,4 +1,6 @@
 # ScrollingText
-A very basic app which taught me how to make the text scrollable through the entire device's screen.
+A very basic app including scrollable text with active web links.
+
 This is how it looks:-
-Download the [APK]() from here to see it on your device :)
+
+Download the [APK]() from here to run it on your device :)
